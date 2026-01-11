@@ -10,7 +10,7 @@ A small client-side resume builder using Next.js and React. Fill in the form to 
 
 ## Notes
 
-- Uses plain JavaScript, React, HTML, and CSS  TypeScript not needed (mohamed).
+- Uses plain JavaScript, React, HTML, and CSS,  TypeScript not needed (mohamed).
 - Entry file: `app/page.jsx`
 - Styles: `app/resume-builder.css`
 - License: MIT
